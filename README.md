@@ -1,3 +1,19 @@
 # Metric-Imperial Converter
 
-This is the boilerplate for the Metric-Imperial Converter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter
+Это учебный проект для получения сертификата на https://www.freecodecamp.org.
+
+Это приложение переводит меры длины(килограммы и мили), массы(килограммы и фунты) и объема(литры и галлоны) из метрической в имперскую систему и обратно.
+
+## Мои задачи в этом проекте:
+	- написание логики для обработки и конвертации входящих данных в ./controllers/convertHandler.js.
+	- написание обработчика маршрута для '/api/convert' в ./routes/api.js.
+	- написание юнит и Функциональных тестов.
+
+### В проекте используется пакеты:
+	express
+	mocha
+	chai
+
+## Лицензия
+
+MIT
